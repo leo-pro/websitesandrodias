@@ -1,0 +1,20 @@
+{
+  "name": "websitesandrodias",
+  "version": "1.0.0",
+  "description": "\"# websitesandrodias\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-pro/websitesandrodias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-pro/websitesandrodias/issues"
+  },
+  "homepage": "https://github.com/leo-pro/websitesandrodias#readme"
+}
