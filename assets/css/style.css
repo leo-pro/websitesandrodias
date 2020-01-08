@@ -2,5 +2,18 @@ html, body{
     background-color: #1766AD;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
 }
 
+#logo{
+    width: 500px;
+    height: 370px;
+}
+
+.row{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
